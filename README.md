@@ -50,6 +50,7 @@ The application displays call analytics for voice agents using interactive chart
 
 ## 🧱 Architecture Overview
 
+```bash
 src/
 ├── components/
 │ ├── CallDurationChart.tsx
@@ -64,7 +65,7 @@ src/
 │
 ├── services/
 │ └── supabaseClient.ts
-
+```
 
 ---
 
