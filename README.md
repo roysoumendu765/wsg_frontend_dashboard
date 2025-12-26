@@ -8,7 +8,7 @@ The application displays call analytics for voice agents using interactive chart
 ## 🔗 Live Demo
 
 👉 **Deployed on Vercel**  
-<ADD_YOUR_VERCEL_URL_HERE>
+ Link: https://wsg-frontend-dashboard.vercel.app
 
 ---
 
